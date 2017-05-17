@@ -14,26 +14,26 @@
 ### App screenshots:
 Start menu:
 
-<a href="url"><img src="https://github.com/urianchang/RunBud/blob/master/screenshots/start.png" height=50% width=50% ></a>
+<img src="https://github.com/urianchang/RunBud/blob/master/screenshots/start.png" height=50% width=50% >
 
 \* Background image changes based on OS time.
 
 Search results:
 
-<a href="url"><img src="https://github.com/urianchang/RunBud/blob/master/screenshots/search_results.png" height=50% width=50% ></a>
+<img src="https://github.com/urianchang/RunBud/blob/master/screenshots/search_results.png" height=50% width=50% >
 
 Running Route Details:
 
-<a href="url"><img src="https://github.com/urianchang/RunBud/blob/master/screenshots/run_details.png" height=50% width=50% ></a>
+<img src="https://github.com/urianchang/RunBud/blob/master/screenshots/run_details.png" height=50% width=50% >
 
 Route Comments:
 
-<a href="url"><img src="https://github.com/urianchang/RunBud/blob/master/screenshots/run_comments.png" height=50% width=50% ></a>
+<img src="https://github.com/urianchang/RunBud/blob/master/screenshots/run_comments.png" height=50% width=50% >
 
 Leave a Comment:
 
-<a href="url"><img src="https://github.com/urianchang/RunBud/blob/master/screenshots/leave_comment.png" height=50% width=50% ></a>
+<img src="https://github.com/urianchang/RunBud/blob/master/screenshots/leave_comment.png" height=50% width=50% >
 
 Record and Share your Running Route:
 
-<a href="url"><img src="https://github.com/urianchang/RunBud/blob/master/screenshots/record_run.png" height=50% width=50% ></a>
+<img src="https://github.com/urianchang/RunBud/blob/master/screenshots/record_run.png" height=50% width=50% >
